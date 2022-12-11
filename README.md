@@ -10,7 +10,8 @@ I am a Front End Web developer. Since 2012 I am working as a web designr and dev
 ✅ PHP <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
-
+✅ CodeIgniter <br>
+✅ Angular <br>
 
 
 
