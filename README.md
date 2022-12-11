@@ -24,10 +24,10 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" />
 </div>
 <div>
-    <img style="width:50px; height:auto;" src="https://www.php.net//images/logos/new-php-logo.svg" />
+    <img style="width:50px;height:auto;" src="https://angular.io/assets/images/logos/angular/angular.svg">
 </div>
 <div>
-    <img style="width:50px;height:auto;" src="https://angular.io/assets/images/logos/angular/angular.svg">
+    <img style="width:50px; height:auto;" src="https://www.php.net//images/logos/new-php-logo.svg" />
 </div>
 <div>
     <img style="width:125px;height:auto;" src="https://img.intertoons.com/wp-content/uploads/2019/06/lc.png">
