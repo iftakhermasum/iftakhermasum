@@ -8,10 +8,10 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 
 <b>💻 cms</b>
 <ul>
-    <li> <img style="width:100px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png?20110527172402" /></li>
-    <li><img style="width:100px; height:auto;" src="https://provenadvertising.co/wp-content/uploads/2020/01/webflow-logo-300x150.png" /></li>
-    <li><img style="width:100px; height:auto;" src="https://images.squarespace-cdn.com/content/5134cbefe4b0c6fb04df8065/1540481377494-6F0ZRE16VTIMGIFPVW7K/squarespace-logo-horizontal-black.jpg?format=750w&content-type=image%2Fjpeg" /></li>
-    <li><img style="width:100px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/215px-Shopify_logo_2018.svg.png" /></li>
+    <span><img src="https://i.ibb.co/9wF9MXp/wordpress.png" alt="wordpress" /a></span>
+    <span><img src="https://i.ibb.co/315PyZc/webflow.png" alt="webflow" /a></span>
+    <span><img src="https://i.ibb.co/sq0gZRw/spuirespace.png" alt="spuirespace" /a></span>
+    <span><img src="https://i.ibb.co/nmSzfbV/shopify.png" alt="shopify" /a></span>
 </ul>
 
 
