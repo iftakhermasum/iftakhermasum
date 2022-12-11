@@ -2,7 +2,7 @@
 
 I am a Front End Web developer. Since 2012 I am working as a web designer and developer. I like to take new challanges and solve probelms professionally. Most of the time I work with WordPress but I also like to work with JavaScript and PHP.
 
-<h1 style="border-bottom:1px solid #ededed;width:100%;">🔭 Skills: </h1>
+<h2 style="border-bottom:1px solid #ededed;width:100%;">🔭 Skills: </h2>
 
 <b>💻 CMS</b>
 <ul>
@@ -45,7 +45,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 </div>  
 
 
-<h1>📱  Social Links</h1>
+<h2>📱  Social Links</h2>
 <ul>    
   <span><a target="_blank" href="https://www.linkedin.com/in/iftakhermasum303/"><img src="https://i.ibb.co/PhTzXFQ/linkedin.png" alt="linkedin"></a></span>    
   <span><a target="_blank" href="https://twitter.com/iftakher303"><img src="https://i.ibb.co/Sdmp26V/twitter.png" alt="twitter"></a></span>  
