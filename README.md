@@ -4,46 +4,47 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 
 <h1 style="border-bottom:1px solid #ededed;width:100%;">🔭 Skills: </h1>
 
-<b>💻 cms</b>
+<b>💻 CMS</b>
 <ul>
-    <span><img src="https://i.ibb.co/9wF9MXp/wordpress.png" alt="wordpress" /a></span>
-    <span><img src="https://i.ibb.co/315PyZc/webflow.png" alt="webflow" /a></span>
-    <span><img src="https://i.ibb.co/sq0gZRw/spuirespace.png" alt="spuirespace" /a></span>
-    <span><img src="https://i.ibb.co/nmSzfbV/shopify.png" alt="shopify" /a></span>
+    <span><img src="https://i.ibb.co/9wF9MXp/wordpress.png" alt="wordpress"></span>
+    <span><img src="https://i.ibb.co/315PyZc/webflow.png" alt="webflow"></span>
+    <span><img src="https://i.ibb.co/sq0gZRw/spuirespace.png" alt="spuirespace"></span>
+    <span><img src="https://i.ibb.co/nmSzfbV/shopify.png" alt="shopify"></span>
+    <span><img src="https://i.ibb.co/Q6g6cYc/wix.png" alt="wix"></span>
 </ul>
 
 
 <b>💻 Front-End</b>
 <ul>
-        <span><img src="https://i.ibb.co/FsnqMqc/jquery.png" alt="jquery" /></span> 
-        <span><img src="https://i.ibb.co/Lv4DJ8S/javascript.png" alt="javascript" /></span>
-        <span><img src="https://i.ibb.co/hsRBDNT/hcbs.png" /></span>
+        <span><img src="https://i.ibb.co/FsnqMqc/jquery.png" alt="jquery"></span> 
+        <span><img src="https://i.ibb.co/Lv4DJ8S/javascript.png" alt="javascript"></span>
+        <span><img src="https://i.ibb.co/hsRBDNT/hcbs.png"></span>
 </ul>
 
 
 <b>💻 Back-End</b>
 <ul>
-    <span><img src="https://i.ibb.co/HCryLw6/php.png" alt="php" /></span>
-    <span><a href="https://imgbb.com/"><img src="https://i.ibb.co/P6fKPjL/codlaravl.png" alt="codlaravl" border="0"></a></span>
+    <span><img src="https://i.ibb.co/HCryLw6/php.png" alt="php"></span>
+    <span><img src="https://i.ibb.co/P6fKPjL/codlaravl.png" alt="codlaravl"></span>
 </ul>
 
 <b>💻 Design Tools</b>
 <ul>
-    <img src="https://i.ibb.co/6WDdQz2/design.png" alt="design" />
+    <img src="https://i.ibb.co/6WDdQz2/design.png" alt="design">
 </ul>
 
 <br>
 
 <div>
-    🌱 I’m currently learning <span><img style="width:18px;height:auto;" src="https://jivantutech.com/assets/tools/webd/w7.jpg"/ ></span>
+    🌱 I’m currently learning <span><img style="width:18px;height:auto;" src="https://jivantutech.com/assets/tools/webd/w7.jpg"></span>
 </div>  
 
 
 <h1>📱  Social Links</h1>
 <ul>    
-  <span><a target="_blank" href="https://www.linkedin.com/in/iftakhermasum303/"><img src="https://i.ibb.co/PhTzXFQ/linkedin.png" alt="linkedin" /a></span>    
-  <span><a target="_blank" href="https://twitter.com/iftakher303"><img src="https://i.ibb.co/Sdmp26V/twitter.png" alt="twitter" border="0"></a></span>  
-  <span><a target="_blank" href="https://codepen.io/mdiftakher"><img src="https://i.ibb.co/XVcWXsj/codepen.png" alt="codepen" border="0"></a></span> 
+  <span><a target="_blank" href="https://www.linkedin.com/in/iftakhermasum303/"><img src="https://i.ibb.co/PhTzXFQ/linkedin.png" alt="linkedin"></a></span>    
+  <span><a target="_blank" href="https://twitter.com/iftakher303"><img src="https://i.ibb.co/Sdmp26V/twitter.png" alt="twitter"></a></span>  
+  <span><a target="_blank" href="https://codepen.io/mdiftakher"><img src="https://i.ibb.co/XVcWXsj/codepen.png" alt="codepen"></a></span> 
 </ul>  
 
 <!--
