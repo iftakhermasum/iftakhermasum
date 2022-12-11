@@ -40,7 +40,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 <div>
     🌱 I’m currently learning 
     <ul>
-        <img style="width:18px;height:auto;" src="https://jivantutech.com/assets/tools/webd/w7.jpg">    
+        <img src="https://i.ibb.co/6NcRKqn/react.png" alt="react">   
     </ul>
 </div>  
 
