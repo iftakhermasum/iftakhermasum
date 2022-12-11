@@ -39,6 +39,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 
 <div>
     🌱 learning: currently I’m learning React <br>
+    👨‍🎓 Trying to learn spanish language <br>
     ❤️ interests: Read books, Regular exercise, listen to music, Play video games, Travelling and Praying.
 </div>  
 
