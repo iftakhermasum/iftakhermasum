@@ -38,7 +38,10 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 <br>
 
 <div>
-    🌱 I’m currently learning <span><img style="width:18px;height:auto;" src="https://jivantutech.com/assets/tools/webd/w7.jpg"></span>
+    🌱 I’m currently learning 
+    <ul>
+        <img style="width:18px;height:auto;" src="https://jivantutech.com/assets/tools/webd/w7.jpg">    
+    </ul>
 </div>  
 
 
