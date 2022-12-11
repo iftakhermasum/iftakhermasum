@@ -27,13 +27,13 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
     <img style="width:50px; height:auto;" src="https://www.php.net//images/logos/new-php-logo.svg" />
 </div>
 <div>
-<span><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"></span> / <span><img style="width:50px; height:auto;"  src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"></span> / <span><img style="width:35px; height:auto;"  src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png"></span> / <span><img style="width:25px; height:auto;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></span> 
-</div>
-<div>
     <img style="width:50px;height:auto;" src="https://angular.io/assets/images/logos/angular/angular.svg">
 </div>
 <div>
     <img style="width:125px;height:auto;" src="https://img.intertoons.com/wp-content/uploads/2019/06/lc.png">
+</div>
+<div>
+<span><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"></span> / <span><img style="width:50px; height:auto;"  src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"></span> / <span><img style="width:35px; height:auto;"  src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png"></span> / <span><img style="width:25px; height:auto;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"></span> 
 </div>
 <div>
     <img style="width:125px;height:auto;" src="https://www.nobledesktop.com/image/blog/adobe-xd-sketch-figma-photoshop.jpg">
