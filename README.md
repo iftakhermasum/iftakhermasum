@@ -38,7 +38,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 <br>
 
 <div>
-    🌱 learning: currently I’m learning React js <br>
+    🌱 learning: currently I’m learning React <br>
     ❤️ interests: Read books, Regular exercise, listen to music, Play video games, Travelling and Praying.
 </div>  
 
