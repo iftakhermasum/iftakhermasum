@@ -16,9 +16,10 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 
 <b>💻 Front-End</b>
 <ul>
-        <span><img src="https://i.ibb.co/Lv4DJ8S/javascript.png" alt="javascript"></span>
-        <span><img src="https://i.ibb.co/FsnqMqc/jquery.png" alt="jquery"></span> 
-        <span><img src="https://i.ibb.co/hsRBDNT/hcbs.png"></span>
+    <span><img src="https://i.ibb.co/Lv4DJ8S/javascript.png" alt="javascript"></span>
+    <span><img src="https://i.ibb.co/FsnqMqc/jquery.png" alt="jquery"></span> 
+    <span><img src="https://i.ibb.co/9vrWCpG/angular.png" alt="angular"></span> 
+    <span><img src="https://i.ibb.co/hsRBDNT/hcbs.png"></span>
 </ul>
 
 
