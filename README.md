@@ -2,7 +2,7 @@
 
 I am a Front End Web developer. Since 2012 I am working as a web designer and developer. I like to take new challanges and solve probelms professionally. Most of the time I work with WordPress but I also like to work with JavaScript and PHP.
 
-<h2 style="border-bottom:1px solid #ededed;width:100%;">🔭 Skills: </h2>
+<h2 style="border-bottom:1px solid #ededed;width:100%;">🔭 Skills and experiences: </h2>
 
 <b>💻 CMS</b>
 <ul>
