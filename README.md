@@ -34,7 +34,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 <b>💻 Design Tools</b>
 <ul>
     <img src="https://i.ibb.co/7p3XmDG/designs.png" alt="designs">
-    <img src="https://i.ibb.co/BrGVsf3/Adobe-Illustrator.png" alt="Adobe-Illustrator">
+    <img src="https://i.ibb.co/mq4jZRX/illustrator.png" alt="illustrator">
 </ul>
 
 <b>💻 Team works using</b>
