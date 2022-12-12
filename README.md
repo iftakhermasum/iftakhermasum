@@ -37,7 +37,7 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
     <img src="https://i.ibb.co/mq4jZRX/illustrator.png" alt="illustrator">
 </ul>
 
-<b>💻 Team works using</b>
+<b>💻 Teamwork Tools</b>
 <ul>
     <img src="https://i.ibb.co/1vthKQJ/treelo.png" alt="treelo">
     <img src="https://i.ibb.co/VMv0CsF/slack.png" alt="slack">
