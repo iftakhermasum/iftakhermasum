@@ -6,11 +6,11 @@ I am a Front End Web developer. Since 2012 I am working as a web designer and de
 
 <b>💻 CMS</b>
 <ul>
-    <span><img src="https://i.ibb.co/9wF9MXp/wordpress.png" alt="wordpress"></span>
-    <span><img src="https://i.ibb.co/315PyZc/webflow.png" alt="webflow"></span>
-    <span><img src="https://i.ibb.co/sq0gZRw/spuirespace.png" alt="spuirespace"></span>
-    <span><img src="https://i.ibb.co/nmSzfbV/shopify.png" alt="shopify"></span>
-    <span><img src="https://i.ibb.co/Q6g6cYc/wix.png" alt="wix"></span>
+    <span><img src="https://i.ibb.co/cTb1CDr/wordpress.png" alt="wordpress"></span>
+    <span><img src="https://i.ibb.co/cbCXRMc/webflow.png" alt="webflow"></span>
+    <span><img src="https://i.ibb.co/SXX786Y/squarespace.png" alt="squarespace"></span>
+    <span><img src="https://i.ibb.co/64f9sTk/shopify.png" alt="shopify"></span>
+    <span><img src="https://i.ibb.co/DVb9MZg/wix.png" alt="wix"></span>
 </ul>
 
 
