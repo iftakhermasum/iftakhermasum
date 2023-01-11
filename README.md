@@ -41,6 +41,7 @@ I am a Front-End Web Developer. Since 2012, I have been working as a web designe
 <ul>
     <img src="https://i.ibb.co/1vthKQJ/treelo.png" alt="treelo">
     <img src="https://i.ibb.co/VMv0CsF/slack.png" alt="slack">
+    <img src="https://i.ibb.co/QHtLg7s/notion-logo.png" alt="notion-logo">
 </ul>
 
 <br>
